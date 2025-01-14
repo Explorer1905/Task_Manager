@@ -21,3 +21,8 @@ Backend:
 
 Database:
 1.MySQL (to store user and task data)
+
+Usage
+Register a new account to start managing your tasks.
+After logging in, you can add tasks, update their status, and filter them based on their current state (e.g., Pending, In Progress, Completed).
+The navigation menu is responsive, allowing users to access the app on both desktop and mobile devices.

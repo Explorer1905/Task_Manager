@@ -9,15 +9,15 @@ Task Status Update: Change the status of tasks (e.g., Pending, In Progress, Comp
 Task Filtering: Filter tasks based on their status to quickly find tasks that need attention.
 Responsive Design: The app is mobile-friendly and adapts to different screen sizes.
 Navigation Menu: Toggle navigation for small screen sizes.
+
 Technologies Used
 Frontend:
+1.HTML
+2.CSS (with responsive design)
+3.JavaScript (for dynamic features like task filtering and status update)
 
-HTML
-CSS (with responsive design)
-JavaScript (for dynamic features like task filtering and status update)
 Backend:
+1.PHP (for handling user registration, login, and task updates)
 
-PHP (for handling user registration, login, and task updates)
 Database:
-
-MySQL (to store user and task data)
+1.MySQL (to store user and task data)
